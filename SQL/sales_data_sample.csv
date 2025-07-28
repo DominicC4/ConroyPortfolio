@@ -1,0 +1,1001 @@
+order_id,customer_id,product_name,category,price,quantity,order_date
+1,263,Shampoo,Health,37.85,2,2025-05-29
+2,135,Shampoo,Health,30.75,1,2025-05-04
+3,123,Cat Toy,Pets,26.75,1,2025-07-11
+4,150,Perfume,Beauty,13.36,5,2025-06-05
+5,101,Bird Seed,Pets,18.99,2,2025-05-28
+6,295,Phone Charger,Electronics,7.36,1,2025-06-15
+7,188,Foundation,Beauty,40.94,4,2025-07-08
+8,131,Dish Soap,Home,28.95,5,2025-06-16
+9,247,Dog Food,Pets,5.15,2,2025-06-07
+10,120,Dog Food,Pets,20.87,4,2025-07-21
+11,193,Pet Shampoo,Pets,19.7,3,2025-07-29
+12,274,Toothpaste,Health,28.1,2,2025-05-21
+13,218,Trash Bags,Home,49.51,5,2025-05-29
+14,275,Phone Charger,Electronics,13.77,1,2025-06-10
+15,202,Phone Charger,Electronics,12.92,5,2025-06-10
+16,154,Laundry Detergent,Home,44.58,4,2025-05-19
+17,167,Cat Toy,Pets,38.01,5,2025-06-03
+18,291,Perfume,Beauty,45.2,4,2025-06-16
+19,156,Bird Seed,Pets,7.27,1,2025-05-15
+20,139,Bird Seed,Pets,31.03,4,2025-06-18
+21,252,Trash Bags,Home,48.64,1,2025-07-27
+22,284,Multivitamins,Health,39.12,3,2025-05-15
+23,175,Paper Towels,Home,24.33,3,2025-07-04
+24,295,Dog Food,Pets,43.91,3,2025-07-21
+25,229,Lip Balm,Beauty,10.18,2,2025-07-09
+26,299,Face Cream,Beauty,31.15,4,2025-05-03
+27,128,USB Cable,Electronics,14.25,2,2025-07-12
+28,120,Hand Sanitizer,Health,41.35,5,2025-05-17
+29,132,Paper Towels,Home,15.46,5,2025-06-24
+30,154,Lip Balm,Beauty,36.51,4,2025-07-25
+31,266,Laptop Stand,Electronics,45.28,4,2025-05-16
+32,163,Dog Food,Pets,18.89,5,2025-07-10
+33,158,Lip Balm,Beauty,3.34,1,2025-05-30
+34,117,Multivitamins,Health,6.33,2,2025-06-05
+35,271,Paper Towels,Home,28.34,5,2025-07-13
+36,221,Bird Seed,Pets,40.95,2,2025-05-13
+37,124,Trash Bags,Home,22.91,4,2025-05-07
+38,272,Shampoo,Health,21.92,3,2025-05-14
+39,163,Cat Toy,Pets,28.21,2,2025-06-24
+40,146,Laptop Stand,Electronics,14.74,1,2025-06-26
+41,240,Shampoo,Health,33.65,5,2025-05-02
+42,123,Cat Toy,Pets,22.1,4,2025-05-28
+43,202,Toothpaste,Health,20.81,4,2025-06-03
+44,300,Trash Bags,Home,22.88,5,2025-07-24
+45,283,Paper Towels,Home,11.93,2,2025-05-08
+46,248,Face Cream,Beauty,38.15,1,2025-05-07
+47,249,Paper Towels,Home,5.67,5,2025-05-11
+48,147,Shampoo,Health,34.73,2,2025-06-21
+49,130,Lip Balm,Beauty,30.21,1,2025-07-19
+50,120,Trash Bags,Home,46.93,2,2025-07-25
+51,283,Bluetooth Speaker,Electronics,15.48,2,2025-07-25
+52,265,Laptop Stand,Electronics,17.86,1,2025-05-02
+53,217,Face Cream,Beauty,6.44,2,2025-07-04
+54,167,Pet Shampoo,Pets,44.4,2,2025-06-17
+55,172,Bird Seed,Pets,42.19,3,2025-07-18
+56,267,Face Cream,Beauty,34.39,5,2025-06-08
+57,269,Toothpaste,Health,15.43,1,2025-07-10
+58,139,USB Cable,Electronics,31.43,3,2025-05-27
+59,275,Laptop Stand,Electronics,14.8,1,2025-05-12
+60,262,Trash Bags,Home,5.07,3,2025-05-17
+61,263,Bluetooth Speaker,Electronics,37.84,5,2025-07-30
+62,209,Face Cream,Beauty,8.26,2,2025-07-09
+63,109,Bluetooth Speaker,Electronics,23.2,1,2025-06-09
+64,193,Multivitamins,Health,12.87,2,2025-07-25
+65,126,Laptop Stand,Electronics,48.77,2,2025-05-31
+66,141,Bird Seed,Pets,4.16,3,2025-06-22
+67,271,Pet Shampoo,Pets,10.48,1,2025-06-18
+68,109,Paper Towels,Home,12.38,4,2025-06-14
+69,178,Cat Toy,Pets,4.11,2,2025-06-21
+70,184,Phone Charger,Electronics,48.44,3,2025-06-14
+71,264,Perfume,Beauty,34.94,5,2025-06-12
+72,107,Multivitamins,Health,11.39,3,2025-05-05
+73,127,Perfume,Beauty,19.25,3,2025-06-25
+74,255,Face Cream,Beauty,21.1,5,2025-05-25
+75,165,Hand Sanitizer,Health,3.08,5,2025-07-27
+76,284,Pet Shampoo,Pets,23.27,3,2025-07-19
+77,180,Multivitamins,Health,26.83,4,2025-06-11
+78,203,Bluetooth Speaker,Electronics,12.02,4,2025-07-26
+79,291,Pet Shampoo,Pets,22.09,1,2025-06-08
+80,173,Bird Seed,Pets,39.93,5,2025-07-23
+81,182,Laundry Detergent,Home,23.78,2,2025-07-05
+82,221,Dog Food,Pets,16.34,5,2025-06-12
+83,123,Pet Shampoo,Pets,13.56,2,2025-05-19
+84,106,Toothpaste,Health,49.24,5,2025-05-10
+85,216,Paper Towels,Home,36.76,4,2025-07-03
+86,202,Cat Toy,Pets,33.83,1,2025-05-14
+87,299,Paper Towels,Home,11.27,5,2025-06-29
+88,112,Lip Balm,Beauty,46.12,1,2025-06-28
+89,134,Trash Bags,Home,47.65,4,2025-07-18
+90,284,Perfume,Beauty,42.04,5,2025-06-27
+91,140,Laundry Detergent,Home,15.18,2,2025-07-21
+92,170,Perfume,Beauty,32.46,3,2025-06-26
+93,119,Bluetooth Speaker,Electronics,15.77,3,2025-07-09
+94,120,Cat Toy,Pets,13.87,2,2025-07-30
+95,154,Hand Sanitizer,Health,22.16,5,2025-06-29
+96,206,Toothpaste,Health,42.15,4,2025-07-14
+97,278,Hand Sanitizer,Health,25.42,3,2025-06-08
+98,292,Laundry Detergent,Home,28.3,5,2025-07-17
+99,156,Paper Towels,Home,15.83,4,2025-05-04
+100,199,Laptop Stand,Electronics,37.04,4,2025-05-17
+101,259,Face Cream,Beauty,45.63,5,2025-07-12
+102,269,Shampoo,Health,33.21,2,2025-06-29
+103,146,Multivitamins,Health,20.82,2,2025-06-28
+104,183,Laptop Stand,Electronics,16.08,4,2025-06-02
+105,120,Dish Soap,Home,38.2,1,2025-06-14
+106,157,Shampoo,Health,38.45,2,2025-05-26
+107,105,Lip Balm,Beauty,14.21,4,2025-07-25
+108,129,Lip Balm,Beauty,24.86,3,2025-06-17
+109,142,Face Cream,Beauty,39.56,2,2025-06-09
+110,127,Face Cream,Beauty,46.66,5,2025-07-26
+111,196,Paper Towels,Home,6.57,2,2025-05-14
+112,278,Phone Charger,Electronics,40.42,5,2025-05-06
+113,188,Perfume,Beauty,34.09,1,2025-07-04
+114,265,Phone Charger,Electronics,42.93,4,2025-05-14
+115,210,Laptop Stand,Electronics,36.24,4,2025-05-23
+116,287,Foundation,Beauty,31.95,5,2025-07-01
+117,219,Trash Bags,Home,18.15,2,2025-05-12
+118,171,Paper Towels,Home,38.27,5,2025-07-18
+119,271,Trash Bags,Home,4.35,3,2025-05-24
+120,224,Pet Shampoo,Pets,40.5,3,2025-06-05
+121,252,Phone Charger,Electronics,27.28,2,2025-05-11
+122,161,Laundry Detergent,Home,29.09,2,2025-07-28
+123,221,Laundry Detergent,Home,40.27,1,2025-06-07
+124,156,Paper Towels,Home,17.39,5,2025-06-17
+125,221,Foundation,Beauty,23.0,5,2025-06-12
+126,190,Trash Bags,Home,17.41,2,2025-05-16
+127,284,Pet Shampoo,Pets,8.62,5,2025-07-28
+128,147,Cat Toy,Pets,37.71,3,2025-07-15
+129,294,Foundation,Beauty,49.08,2,2025-06-07
+130,158,Bluetooth Speaker,Electronics,17.21,5,2025-05-17
+131,170,Shampoo,Health,29.01,2,2025-07-21
+132,292,Dish Soap,Home,44.02,5,2025-06-06
+133,220,Laundry Detergent,Home,19.01,1,2025-06-02
+134,222,Shampoo,Health,21.83,1,2025-07-13
+135,261,Toothpaste,Health,10.01,5,2025-06-08
+136,121,Dog Food,Pets,29.23,4,2025-07-17
+137,252,Lip Balm,Beauty,39.46,4,2025-06-27
+138,213,Laptop Stand,Electronics,17.35,5,2025-05-08
+139,256,Toothpaste,Health,32.4,3,2025-07-24
+140,120,Cat Toy,Pets,11.17,1,2025-05-21
+141,100,Laundry Detergent,Home,35.4,4,2025-06-07
+142,108,Pet Shampoo,Pets,36.23,4,2025-05-10
+143,275,Pet Shampoo,Pets,40.03,5,2025-07-24
+144,150,Dish Soap,Home,28.59,2,2025-06-04
+145,136,Shampoo,Health,10.8,3,2025-07-16
+146,291,Foundation,Beauty,23.64,4,2025-07-28
+147,177,Trash Bags,Home,26.52,4,2025-06-26
+148,120,Face Cream,Beauty,44.8,3,2025-07-17
+149,164,Shampoo,Health,13.76,5,2025-07-15
+150,105,Phone Charger,Electronics,38.87,2,2025-06-30
+151,232,Trash Bags,Home,11.53,5,2025-06-25
+152,262,Dish Soap,Home,25.09,4,2025-06-12
+153,182,Toothpaste,Health,18.5,4,2025-06-06
+154,269,Dish Soap,Home,24.38,3,2025-06-02
+155,182,Hand Sanitizer,Health,43.65,1,2025-07-24
+156,238,Laundry Detergent,Home,5.55,5,2025-06-16
+157,259,Laundry Detergent,Home,38.72,2,2025-06-04
+158,240,Pet Shampoo,Pets,23.59,4,2025-05-16
+159,107,Lip Balm,Beauty,36.36,3,2025-07-10
+160,103,Perfume,Beauty,7.38,1,2025-06-29
+161,130,Bird Seed,Pets,46.83,3,2025-07-05
+162,280,Laptop Stand,Electronics,42.23,4,2025-06-01
+163,216,Lip Balm,Beauty,21.03,5,2025-07-05
+164,291,Dog Food,Pets,15.98,4,2025-06-13
+165,229,Phone Charger,Electronics,16.29,3,2025-07-15
+166,248,Paper Towels,Home,23.99,4,2025-06-14
+167,185,Perfume,Beauty,24.4,3,2025-05-25
+168,278,Bird Seed,Pets,13.98,4,2025-05-06
+169,181,Laundry Detergent,Home,21.15,2,2025-07-03
+170,109,Pet Shampoo,Pets,43.88,4,2025-05-13
+171,234,Dish Soap,Home,36.95,4,2025-07-23
+172,139,Hand Sanitizer,Health,39.73,3,2025-06-13
+173,259,Dish Soap,Home,43.03,5,2025-06-18
+174,181,Dish Soap,Home,32.02,2,2025-07-20
+175,275,Bluetooth Speaker,Electronics,38.1,4,2025-05-13
+176,294,Hand Sanitizer,Health,10.82,3,2025-05-04
+177,111,Phone Charger,Electronics,16.79,3,2025-06-25
+178,137,Bird Seed,Pets,29.6,2,2025-05-22
+179,144,Hand Sanitizer,Health,32.13,2,2025-07-03
+180,249,Cat Toy,Pets,24.67,3,2025-06-28
+181,165,Hand Sanitizer,Health,45.36,5,2025-05-21
+182,118,Trash Bags,Home,49.42,3,2025-07-21
+183,208,Laptop Stand,Electronics,42.73,2,2025-06-19
+184,223,Toothpaste,Health,20.92,3,2025-07-13
+185,175,Phone Charger,Electronics,48.96,4,2025-06-05
+186,102,Face Cream,Beauty,45.8,4,2025-06-06
+187,298,Pet Shampoo,Pets,13.29,2,2025-07-19
+188,164,Dog Food,Pets,45.46,1,2025-06-09
+189,212,Multivitamins,Health,37.42,1,2025-06-07
+190,183,Paper Towels,Home,12.44,5,2025-06-16
+191,235,Foundation,Beauty,42.03,3,2025-07-01
+192,175,Phone Charger,Electronics,25.01,1,2025-05-19
+193,293,Bird Seed,Pets,48.46,5,2025-06-16
+194,123,Dish Soap,Home,15.43,1,2025-06-28
+195,194,Laptop Stand,Electronics,41.65,3,2025-05-14
+196,272,Bird Seed,Pets,4.18,5,2025-06-11
+197,256,Dog Food,Pets,32.86,4,2025-07-29
+198,177,Dish Soap,Home,9.57,1,2025-06-08
+199,226,Shampoo,Health,14.04,5,2025-05-18
+200,199,Trash Bags,Home,34.51,5,2025-06-23
+201,250,Bird Seed,Pets,33.78,4,2025-07-18
+202,204,Phone Charger,Electronics,35.44,2,2025-06-26
+203,213,Pet Shampoo,Pets,7.67,3,2025-07-09
+204,265,Phone Charger,Electronics,21.71,2,2025-05-16
+205,216,Toothpaste,Health,33.16,5,2025-05-03
+206,112,Bluetooth Speaker,Electronics,49.47,5,2025-05-27
+207,117,Lip Balm,Beauty,30.56,2,2025-06-12
+208,298,Dog Food,Pets,16.03,2,2025-05-17
+209,238,Bluetooth Speaker,Electronics,8.17,1,2025-05-17
+210,103,Bluetooth Speaker,Electronics,30.68,1,2025-05-23
+211,167,Toothpaste,Health,37.86,5,2025-05-15
+212,290,Hand Sanitizer,Health,24.07,3,2025-07-05
+213,251,Hand Sanitizer,Health,26.68,5,2025-05-06
+214,286,Foundation,Beauty,24.53,1,2025-05-08
+215,222,Laundry Detergent,Home,35.25,4,2025-06-26
+216,118,Multivitamins,Health,31.59,1,2025-05-17
+217,170,Foundation,Beauty,20.9,5,2025-07-07
+218,175,Laundry Detergent,Home,7.66,1,2025-07-23
+219,266,Lip Balm,Beauty,23.21,2,2025-06-22
+220,186,Laundry Detergent,Home,22.55,1,2025-06-10
+221,209,USB Cable,Electronics,20.59,2,2025-07-27
+222,221,Shampoo,Health,42.09,1,2025-06-25
+223,124,Bluetooth Speaker,Electronics,29.15,5,2025-07-11
+224,243,Phone Charger,Electronics,22.31,4,2025-05-07
+225,173,Foundation,Beauty,19.53,5,2025-07-04
+226,154,Bird Seed,Pets,13.54,1,2025-06-14
+227,242,Phone Charger,Electronics,38.84,5,2025-05-29
+228,209,Face Cream,Beauty,31.62,3,2025-05-04
+229,146,USB Cable,Electronics,46.31,3,2025-05-01
+230,146,Bird Seed,Pets,6.27,1,2025-05-12
+231,291,Lip Balm,Beauty,20.68,4,2025-06-13
+232,140,USB Cable,Electronics,36.92,5,2025-07-16
+233,121,Toothpaste,Health,10.4,5,2025-05-07
+234,272,Multivitamins,Health,23.83,4,2025-07-02
+235,255,Laundry Detergent,Home,15.84,5,2025-05-15
+236,188,Dish Soap,Home,16.31,5,2025-07-02
+237,234,Phone Charger,Electronics,13.36,5,2025-05-08
+238,101,Pet Shampoo,Pets,47.43,2,2025-06-02
+239,174,Phone Charger,Electronics,3.36,4,2025-05-23
+240,133,Paper Towels,Home,26.51,3,2025-05-10
+241,201,Hand Sanitizer,Health,3.88,1,2025-06-10
+242,247,Laundry Detergent,Home,36.35,4,2025-06-07
+243,129,Dish Soap,Home,48.41,2,2025-07-19
+244,217,Phone Charger,Electronics,23.53,1,2025-06-01
+245,211,Perfume,Beauty,27.63,4,2025-06-09
+246,290,Bluetooth Speaker,Electronics,18.65,2,2025-05-10
+247,230,Toothpaste,Health,45.58,3,2025-06-14
+248,286,Cat Toy,Pets,7.83,3,2025-05-26
+249,144,Lip Balm,Beauty,38.73,1,2025-05-23
+250,297,Laundry Detergent,Home,38.46,5,2025-06-27
+251,274,Foundation,Beauty,43.62,3,2025-05-20
+252,212,Hand Sanitizer,Health,23.78,3,2025-06-05
+253,251,Multivitamins,Health,26.84,3,2025-06-29
+254,215,Shampoo,Health,20.33,3,2025-05-10
+255,265,Hand Sanitizer,Health,24.75,5,2025-05-06
+256,215,Lip Balm,Beauty,18.11,4,2025-07-04
+257,138,Hand Sanitizer,Health,7.86,3,2025-05-11
+258,229,Dog Food,Pets,14.64,4,2025-06-26
+259,234,Lip Balm,Beauty,20.1,3,2025-06-19
+260,204,Phone Charger,Electronics,40.09,3,2025-05-09
+261,184,Hand Sanitizer,Health,16.35,5,2025-05-20
+262,185,Toothpaste,Health,46.09,3,2025-07-23
+263,278,Paper Towels,Home,30.97,1,2025-06-09
+264,243,Trash Bags,Home,41.22,5,2025-05-12
+265,265,Trash Bags,Home,3.86,3,2025-05-24
+266,154,Laptop Stand,Electronics,12.02,2,2025-05-20
+267,119,Phone Charger,Electronics,26.86,5,2025-07-07
+268,109,Bluetooth Speaker,Electronics,31.07,2,2025-05-21
+269,146,Lip Balm,Beauty,36.9,1,2025-06-22
+270,193,Bird Seed,Pets,31.7,4,2025-05-30
+271,236,Pet Shampoo,Pets,48.38,4,2025-05-25
+272,194,Perfume,Beauty,24.7,3,2025-06-18
+273,228,Perfume,Beauty,48.41,2,2025-07-17
+274,135,Phone Charger,Electronics,33.14,3,2025-07-10
+275,126,Face Cream,Beauty,16.4,2,2025-06-04
+276,215,Lip Balm,Beauty,42.06,1,2025-05-29
+277,215,Phone Charger,Electronics,22.5,4,2025-07-04
+278,195,Bird Seed,Pets,49.74,3,2025-05-29
+279,107,Phone Charger,Electronics,42.44,3,2025-05-19
+280,135,Multivitamins,Health,46.12,4,2025-07-29
+281,135,Laundry Detergent,Home,31.92,1,2025-05-03
+282,165,Cat Toy,Pets,28.79,5,2025-07-07
+283,208,Multivitamins,Health,14.17,1,2025-05-07
+284,161,Laundry Detergent,Home,5.95,4,2025-07-16
+285,237,Toothpaste,Health,36.77,3,2025-06-24
+286,100,Foundation,Beauty,14.31,4,2025-05-24
+287,270,Multivitamins,Health,6.18,5,2025-07-09
+288,229,Face Cream,Beauty,21.35,4,2025-05-06
+289,262,Trash Bags,Home,14.92,1,2025-06-15
+290,117,Bluetooth Speaker,Electronics,37.45,1,2025-07-14
+291,288,Bluetooth Speaker,Electronics,5.08,5,2025-06-13
+292,264,Bird Seed,Pets,49.1,4,2025-07-20
+293,146,Dog Food,Pets,36.65,4,2025-05-05
+294,175,Dog Food,Pets,40.18,1,2025-06-10
+295,179,Perfume,Beauty,49.49,5,2025-06-30
+296,164,Toothpaste,Health,16.45,1,2025-07-23
+297,184,Phone Charger,Electronics,40.57,4,2025-06-21
+298,290,Laundry Detergent,Home,18.93,2,2025-07-03
+299,277,Trash Bags,Home,46.44,5,2025-06-04
+300,121,Dish Soap,Home,23.24,2,2025-07-09
+301,175,Phone Charger,Electronics,6.76,3,2025-06-09
+302,214,Perfume,Beauty,10.83,4,2025-06-14
+303,214,Multivitamins,Health,31.9,4,2025-06-05
+304,263,Shampoo,Health,34.55,4,2025-06-16
+305,231,Dog Food,Pets,9.71,5,2025-07-26
+306,300,Dish Soap,Home,8.93,2,2025-07-22
+307,193,Laptop Stand,Electronics,47.62,1,2025-07-17
+308,139,Trash Bags,Home,20.48,1,2025-07-13
+309,135,Foundation,Beauty,21.71,3,2025-06-01
+310,129,Toothpaste,Health,26.46,4,2025-07-11
+311,130,USB Cable,Electronics,36.09,2,2025-07-18
+312,173,Paper Towels,Home,8.76,1,2025-06-27
+313,144,Dish Soap,Home,41.09,3,2025-07-25
+314,188,Multivitamins,Health,44.89,2,2025-07-30
+315,279,Pet Shampoo,Pets,26.91,1,2025-05-26
+316,135,Bird Seed,Pets,4.24,5,2025-07-13
+317,194,Paper Towels,Home,31.76,1,2025-05-09
+318,179,Laundry Detergent,Home,27.71,4,2025-07-13
+319,118,Pet Shampoo,Pets,33.19,4,2025-06-29
+320,274,Foundation,Beauty,9.03,5,2025-07-21
+321,250,Cat Toy,Pets,23.33,1,2025-05-16
+322,232,Pet Shampoo,Pets,10.74,3,2025-07-30
+323,157,USB Cable,Electronics,42.76,3,2025-05-26
+324,262,Foundation,Beauty,8.88,3,2025-07-18
+325,236,Toothpaste,Health,30.81,5,2025-05-20
+326,143,Foundation,Beauty,42.6,5,2025-05-06
+327,107,Shampoo,Health,47.58,5,2025-06-03
+328,266,Bird Seed,Pets,32.05,1,2025-07-03
+329,260,Foundation,Beauty,33.17,3,2025-07-01
+330,162,Trash Bags,Home,24.32,1,2025-05-21
+331,212,Laundry Detergent,Home,24.83,3,2025-07-17
+332,136,USB Cable,Electronics,37.51,3,2025-06-21
+333,133,Phone Charger,Electronics,18.0,4,2025-05-16
+334,168,Paper Towels,Home,9.62,1,2025-06-07
+335,198,Perfume,Beauty,14.67,2,2025-06-11
+336,247,Bluetooth Speaker,Electronics,38.87,4,2025-07-05
+337,219,Trash Bags,Home,26.38,1,2025-06-20
+338,229,Paper Towels,Home,13.11,3,2025-05-07
+339,112,Laptop Stand,Electronics,31.08,4,2025-06-06
+340,237,Shampoo,Health,23.25,3,2025-06-16
+341,295,Trash Bags,Home,5.13,1,2025-07-12
+342,243,Pet Shampoo,Pets,29.0,1,2025-06-19
+343,229,Trash Bags,Home,41.79,5,2025-07-27
+344,256,Toothpaste,Health,48.83,4,2025-06-17
+345,186,Foundation,Beauty,38.48,2,2025-07-17
+346,230,Dish Soap,Home,5.13,2,2025-06-12
+347,221,Perfume,Beauty,10.0,5,2025-05-18
+348,183,Foundation,Beauty,10.64,5,2025-06-08
+349,251,Laptop Stand,Electronics,36.31,3,2025-06-30
+350,104,USB Cable,Electronics,34.67,4,2025-07-14
+351,178,Hand Sanitizer,Health,15.48,5,2025-07-13
+352,158,Hand Sanitizer,Health,11.01,5,2025-06-18
+353,137,Dog Food,Pets,29.91,1,2025-05-25
+354,104,Trash Bags,Home,22.68,4,2025-07-28
+355,152,Laundry Detergent,Home,44.02,1,2025-07-30
+356,135,Lip Balm,Beauty,29.36,4,2025-07-07
+357,196,Bluetooth Speaker,Electronics,24.6,5,2025-06-13
+358,239,USB Cable,Electronics,31.67,2,2025-06-01
+359,171,Foundation,Beauty,13.57,3,2025-06-06
+360,280,Bird Seed,Pets,17.9,3,2025-07-11
+361,284,USB Cable,Electronics,8.73,5,2025-06-18
+362,201,Bluetooth Speaker,Electronics,16.65,3,2025-05-11
+363,188,Trash Bags,Home,38.12,2,2025-05-26
+364,237,USB Cable,Electronics,9.45,5,2025-07-15
+365,161,Dog Food,Pets,34.48,5,2025-05-29
+366,263,Dog Food,Pets,7.71,3,2025-06-30
+367,125,Dog Food,Pets,48.33,2,2025-06-22
+368,267,Laundry Detergent,Home,33.58,3,2025-06-11
+369,173,Shampoo,Health,33.66,2,2025-07-08
+370,289,Toothpaste,Health,22.64,2,2025-05-05
+371,201,Paper Towels,Home,47.02,3,2025-05-05
+372,102,Phone Charger,Electronics,46.64,3,2025-06-06
+373,216,Perfume,Beauty,44.8,2,2025-07-04
+374,219,Bluetooth Speaker,Electronics,41.01,3,2025-05-21
+375,287,Trash Bags,Home,36.77,1,2025-06-13
+376,175,Lip Balm,Beauty,11.25,4,2025-06-24
+377,231,Phone Charger,Electronics,21.84,1,2025-05-24
+378,135,Trash Bags,Home,46.98,1,2025-06-03
+379,198,Bird Seed,Pets,38.43,3,2025-06-08
+380,249,Face Cream,Beauty,15.29,3,2025-07-28
+381,160,Shampoo,Health,24.87,2,2025-06-21
+382,275,Foundation,Beauty,35.44,3,2025-06-17
+383,257,Cat Toy,Pets,48.0,4,2025-05-20
+384,216,Foundation,Beauty,22.54,5,2025-06-30
+385,293,Lip Balm,Beauty,38.81,5,2025-05-11
+386,234,Trash Bags,Home,6.67,5,2025-05-15
+387,115,Lip Balm,Beauty,29.92,2,2025-05-22
+388,183,Perfume,Beauty,8.46,2,2025-07-14
+389,225,Hand Sanitizer,Health,41.01,4,2025-05-17
+390,231,Laundry Detergent,Home,29.5,5,2025-06-29
+391,272,Phone Charger,Electronics,21.61,1,2025-05-28
+392,248,Shampoo,Health,22.91,1,2025-07-09
+393,115,Hand Sanitizer,Health,4.49,4,2025-05-24
+394,296,Bird Seed,Pets,20.6,4,2025-06-27
+395,196,Dish Soap,Home,35.09,5,2025-05-18
+396,267,Phone Charger,Electronics,11.39,5,2025-06-20
+397,235,Cat Toy,Pets,42.24,1,2025-06-08
+398,218,Perfume,Beauty,28.0,2,2025-06-01
+399,217,Bluetooth Speaker,Electronics,15.96,1,2025-05-05
+400,269,Dish Soap,Home,14.31,1,2025-05-13
+401,252,Hand Sanitizer,Health,31.1,1,2025-06-01
+402,289,Hand Sanitizer,Health,23.63,5,2025-05-28
+403,293,Toothpaste,Health,26.68,3,2025-05-30
+404,287,Foundation,Beauty,30.14,3,2025-05-31
+405,177,Cat Toy,Pets,22.44,3,2025-05-08
+406,242,Lip Balm,Beauty,32.42,4,2025-07-11
+407,226,Multivitamins,Health,47.25,4,2025-07-07
+408,181,Laundry Detergent,Home,10.01,4,2025-05-24
+409,293,Perfume,Beauty,14.33,2,2025-06-08
+410,281,Bird Seed,Pets,45.99,5,2025-06-22
+411,206,Lip Balm,Beauty,21.26,3,2025-05-27
+412,184,Hand Sanitizer,Health,42.82,1,2025-07-08
+413,285,Dog Food,Pets,15.62,5,2025-07-17
+414,110,Toothpaste,Health,40.82,5,2025-07-25
+415,243,Bird Seed,Pets,12.82,3,2025-06-08
+416,103,Cat Toy,Pets,48.22,1,2025-07-01
+417,162,Lip Balm,Beauty,21.64,2,2025-07-10
+418,182,Laptop Stand,Electronics,24.91,3,2025-06-09
+419,166,Laptop Stand,Electronics,24.9,4,2025-06-10
+420,152,USB Cable,Electronics,22.45,5,2025-05-29
+421,289,Dog Food,Pets,15.26,5,2025-07-14
+422,284,Trash Bags,Home,10.16,3,2025-05-30
+423,197,Lip Balm,Beauty,26.47,3,2025-06-02
+424,295,Laundry Detergent,Home,24.66,3,2025-05-22
+425,135,Perfume,Beauty,11.65,5,2025-07-22
+426,115,Face Cream,Beauty,42.44,1,2025-07-25
+427,112,Hand Sanitizer,Health,9.46,2,2025-05-09
+428,281,Dog Food,Pets,13.28,4,2025-06-17
+429,115,Perfume,Beauty,33.99,1,2025-05-01
+430,236,Perfume,Beauty,3.56,5,2025-06-05
+431,237,Phone Charger,Electronics,26.6,4,2025-05-23
+432,127,Toothpaste,Health,14.33,5,2025-07-07
+433,164,USB Cable,Electronics,40.36,1,2025-06-17
+434,203,Paper Towels,Home,49.54,2,2025-06-08
+435,275,Shampoo,Health,7.39,4,2025-06-18
+436,241,Dish Soap,Home,32.93,2,2025-05-11
+437,227,Trash Bags,Home,29.6,1,2025-07-07
+438,110,Cat Toy,Pets,45.36,5,2025-06-30
+439,169,Shampoo,Health,35.17,3,2025-07-09
+440,244,Toothpaste,Health,46.65,3,2025-05-03
+441,153,Lip Balm,Beauty,38.36,4,2025-05-10
+442,176,Cat Toy,Pets,29.63,4,2025-07-26
+443,238,Laptop Stand,Electronics,38.51,2,2025-07-28
+444,285,Multivitamins,Health,5.52,4,2025-05-30
+445,119,Laptop Stand,Electronics,48.54,3,2025-05-04
+446,262,Laptop Stand,Electronics,26.06,3,2025-07-10
+447,196,Paper Towels,Home,34.95,4,2025-05-11
+448,297,Foundation,Beauty,40.51,1,2025-05-11
+449,168,Bird Seed,Pets,36.45,2,2025-06-19
+450,181,Phone Charger,Electronics,7.3,3,2025-06-26
+451,192,Phone Charger,Electronics,9.23,2,2025-06-25
+452,214,Perfume,Beauty,7.85,1,2025-06-15
+453,241,Multivitamins,Health,43.59,1,2025-06-07
+454,205,Dish Soap,Home,37.07,5,2025-06-01
+455,246,Lip Balm,Beauty,35.21,2,2025-05-18
+456,168,USB Cable,Electronics,26.18,1,2025-05-22
+457,211,Laptop Stand,Electronics,17.09,1,2025-06-16
+458,164,Bird Seed,Pets,30.91,2,2025-06-28
+459,127,Pet Shampoo,Pets,3.32,4,2025-06-12
+460,258,Trash Bags,Home,23.69,4,2025-07-23
+461,252,Pet Shampoo,Pets,18.07,2,2025-07-01
+462,180,Bird Seed,Pets,48.53,3,2025-07-28
+463,262,Paper Towels,Home,18.32,3,2025-06-20
+464,193,Toothpaste,Health,30.83,5,2025-05-24
+465,274,Face Cream,Beauty,47.79,4,2025-07-30
+466,153,Trash Bags,Home,42.07,1,2025-06-22
+467,272,Paper Towels,Home,32.77,2,2025-06-02
+468,268,Bird Seed,Pets,40.09,1,2025-06-27
+469,253,Laundry Detergent,Home,28.12,4,2025-07-09
+470,109,Phone Charger,Electronics,8.14,2,2025-07-24
+471,270,Bluetooth Speaker,Electronics,33.41,1,2025-07-12
+472,265,Trash Bags,Home,48.39,4,2025-05-14
+473,102,Multivitamins,Health,13.43,5,2025-07-11
+474,248,Lip Balm,Beauty,23.95,4,2025-06-29
+475,297,Lip Balm,Beauty,19.21,1,2025-07-01
+476,126,Laptop Stand,Electronics,46.27,1,2025-05-15
+477,286,Pet Shampoo,Pets,17.66,4,2025-05-27
+478,233,Trash Bags,Home,25.38,4,2025-07-29
+479,215,Phone Charger,Electronics,17.11,1,2025-05-03
+480,187,Toothpaste,Health,46.71,2,2025-07-06
+481,144,Lip Balm,Beauty,18.56,4,2025-06-29
+482,159,Paper Towels,Home,11.76,4,2025-06-20
+483,107,Lip Balm,Beauty,24.13,4,2025-06-19
+484,101,Cat Toy,Pets,16.08,1,2025-07-13
+485,126,Lip Balm,Beauty,20.19,2,2025-06-28
+486,129,Laptop Stand,Electronics,27.8,3,2025-07-16
+487,199,Perfume,Beauty,30.59,3,2025-06-15
+488,217,Lip Balm,Beauty,41.25,3,2025-07-18
+489,251,Toothpaste,Health,17.72,2,2025-06-09
+490,129,Pet Shampoo,Pets,35.59,5,2025-06-19
+491,207,Lip Balm,Beauty,30.02,4,2025-05-24
+492,224,Lip Balm,Beauty,29.08,4,2025-06-06
+493,135,Pet Shampoo,Pets,42.57,5,2025-05-07
+494,191,Hand Sanitizer,Health,9.42,4,2025-07-11
+495,229,Laundry Detergent,Home,35.18,4,2025-07-30
+496,213,Paper Towels,Home,6.89,1,2025-05-29
+497,174,Multivitamins,Health,13.57,3,2025-05-22
+498,299,Laundry Detergent,Home,28.84,1,2025-07-13
+499,129,USB Cable,Electronics,28.48,1,2025-06-26
+500,239,Bird Seed,Pets,7.81,2,2025-06-08
+501,108,Trash Bags,Home,19.38,1,2025-06-26
+502,130,Cat Toy,Pets,41.1,5,2025-07-28
+503,189,Perfume,Beauty,10.8,2,2025-05-27
+504,152,Multivitamins,Health,28.02,5,2025-07-08
+505,143,USB Cable,Electronics,16.6,3,2025-07-05
+506,273,Toothpaste,Health,48.25,4,2025-05-08
+507,170,Cat Toy,Pets,14.73,3,2025-06-01
+508,294,Laundry Detergent,Home,9.68,3,2025-07-20
+509,206,Laundry Detergent,Home,6.55,1,2025-06-21
+510,231,USB Cable,Electronics,24.37,4,2025-06-11
+511,248,Shampoo,Health,37.35,4,2025-07-21
+512,270,Phone Charger,Electronics,40.4,4,2025-05-28
+513,209,Bird Seed,Pets,15.62,3,2025-06-13
+514,240,Lip Balm,Beauty,29.61,4,2025-06-13
+515,274,Shampoo,Health,7.68,4,2025-05-03
+516,131,Bird Seed,Pets,24.46,4,2025-05-26
+517,276,Pet Shampoo,Pets,10.47,3,2025-05-12
+518,267,USB Cable,Electronics,6.87,2,2025-05-07
+519,201,Bluetooth Speaker,Electronics,23.17,1,2025-07-30
+520,124,Toothpaste,Health,25.41,2,2025-07-15
+521,157,Perfume,Beauty,3.44,3,2025-05-16
+522,208,Bird Seed,Pets,6.33,4,2025-05-12
+523,287,Shampoo,Health,17.73,3,2025-05-18
+524,197,Cat Toy,Pets,6.22,5,2025-05-02
+525,256,Bird Seed,Pets,19.51,2,2025-07-20
+526,291,Bird Seed,Pets,31.96,4,2025-05-28
+527,122,Toothpaste,Health,38.36,5,2025-06-19
+528,189,Trash Bags,Home,40.18,2,2025-06-05
+529,265,Toothpaste,Health,29.01,5,2025-07-17
+530,172,Multivitamins,Health,12.66,5,2025-07-05
+531,148,Trash Bags,Home,33.37,2,2025-07-03
+532,198,Toothpaste,Health,26.48,5,2025-05-10
+533,235,Multivitamins,Health,46.89,2,2025-06-19
+534,245,Trash Bags,Home,28.68,2,2025-06-30
+535,297,Shampoo,Health,30.61,1,2025-06-03
+536,155,Shampoo,Health,47.59,4,2025-07-04
+537,173,Perfume,Beauty,22.91,4,2025-05-11
+538,263,Lip Balm,Beauty,16.04,3,2025-05-11
+539,230,Cat Toy,Pets,28.21,4,2025-07-15
+540,262,Multivitamins,Health,35.84,2,2025-05-08
+541,162,Hand Sanitizer,Health,8.45,5,2025-07-17
+542,114,Bluetooth Speaker,Electronics,8.61,2,2025-07-29
+543,102,Bird Seed,Pets,47.79,5,2025-07-06
+544,300,Bluetooth Speaker,Electronics,20.48,3,2025-05-16
+545,297,Multivitamins,Health,40.93,3,2025-07-07
+546,116,Phone Charger,Electronics,26.32,5,2025-06-16
+547,114,Paper Towels,Home,20.28,3,2025-05-14
+548,246,Toothpaste,Health,37.82,1,2025-05-06
+549,103,Dog Food,Pets,25.17,4,2025-05-20
+550,145,Hand Sanitizer,Health,13.55,2,2025-06-23
+551,284,USB Cable,Electronics,41.82,5,2025-06-17
+552,130,Face Cream,Beauty,11.43,5,2025-05-06
+553,202,Hand Sanitizer,Health,43.7,3,2025-06-11
+554,122,Perfume,Beauty,3.37,2,2025-06-07
+555,244,Bluetooth Speaker,Electronics,24.8,5,2025-07-03
+556,297,Cat Toy,Pets,10.08,4,2025-05-04
+557,159,Foundation,Beauty,32.89,1,2025-06-12
+558,100,Trash Bags,Home,7.89,5,2025-05-31
+559,207,Dish Soap,Home,48.71,2,2025-06-05
+560,123,Toothpaste,Health,45.17,5,2025-06-22
+561,279,Laptop Stand,Electronics,48.8,1,2025-07-14
+562,124,Lip Balm,Beauty,32.95,4,2025-05-10
+563,251,Face Cream,Beauty,23.44,2,2025-05-31
+564,174,USB Cable,Electronics,46.52,4,2025-07-29
+565,288,USB Cable,Electronics,24.28,2,2025-05-10
+566,151,Dog Food,Pets,10.3,2,2025-06-27
+567,219,Laptop Stand,Electronics,8.67,3,2025-05-27
+568,215,Laptop Stand,Electronics,15.46,1,2025-05-12
+569,140,Phone Charger,Electronics,13.11,3,2025-05-19
+570,123,Pet Shampoo,Pets,21.62,1,2025-07-26
+571,176,Bluetooth Speaker,Electronics,4.46,4,2025-06-27
+572,242,Lip Balm,Beauty,7.45,1,2025-05-18
+573,131,Shampoo,Health,42.03,2,2025-05-17
+574,150,Trash Bags,Home,35.26,1,2025-07-14
+575,250,Phone Charger,Electronics,4.02,1,2025-05-26
+576,265,Paper Towels,Home,7.32,3,2025-05-16
+577,110,Dish Soap,Home,10.9,5,2025-06-25
+578,285,Laundry Detergent,Home,4.39,4,2025-05-23
+579,190,Cat Toy,Pets,15.92,4,2025-05-20
+580,108,Lip Balm,Beauty,33.42,4,2025-06-22
+581,240,Dish Soap,Home,7.12,4,2025-05-18
+582,207,Cat Toy,Pets,32.65,5,2025-05-03
+583,197,Laptop Stand,Electronics,28.59,4,2025-06-14
+584,244,Foundation,Beauty,21.25,2,2025-05-04
+585,181,Lip Balm,Beauty,4.38,3,2025-05-08
+586,220,Foundation,Beauty,39.04,2,2025-05-21
+587,125,Cat Toy,Pets,15.53,1,2025-05-29
+588,247,Trash Bags,Home,46.95,2,2025-05-23
+589,160,Foundation,Beauty,40.89,3,2025-07-15
+590,107,Bluetooth Speaker,Electronics,29.47,2,2025-07-03
+591,238,Bluetooth Speaker,Electronics,26.05,1,2025-05-08
+592,159,Lip Balm,Beauty,3.94,4,2025-05-01
+593,184,Lip Balm,Beauty,40.9,3,2025-05-23
+594,182,Shampoo,Health,9.94,2,2025-05-15
+595,234,Phone Charger,Electronics,20.56,4,2025-07-15
+596,125,USB Cable,Electronics,18.16,2,2025-06-25
+597,263,Trash Bags,Home,11.19,5,2025-07-28
+598,257,Bluetooth Speaker,Electronics,34.28,2,2025-06-18
+599,178,Bluetooth Speaker,Electronics,11.35,1,2025-07-29
+600,246,Dish Soap,Home,11.56,3,2025-07-18
+601,156,Face Cream,Beauty,47.02,2,2025-06-12
+602,290,Toothpaste,Health,19.3,3,2025-05-22
+603,262,Multivitamins,Health,23.99,3,2025-05-27
+604,163,Multivitamins,Health,15.06,1,2025-05-01
+605,112,Laundry Detergent,Home,37.43,2,2025-06-22
+606,226,Trash Bags,Home,28.66,1,2025-07-01
+607,247,Cat Toy,Pets,24.21,1,2025-06-07
+608,105,USB Cable,Electronics,47.73,1,2025-06-13
+609,143,Paper Towels,Home,37.4,5,2025-05-12
+610,186,Perfume,Beauty,36.11,4,2025-07-23
+611,142,Perfume,Beauty,10.38,1,2025-06-12
+612,152,Bird Seed,Pets,35.77,5,2025-06-03
+613,269,USB Cable,Electronics,14.16,1,2025-06-20
+614,246,Perfume,Beauty,10.22,3,2025-05-01
+615,209,Multivitamins,Health,41.72,5,2025-07-01
+616,151,Shampoo,Health,12.73,3,2025-05-11
+617,221,Multivitamins,Health,39.89,4,2025-07-02
+618,269,Phone Charger,Electronics,33.17,4,2025-05-24
+619,194,Trash Bags,Home,11.77,1,2025-06-03
+620,212,Trash Bags,Home,13.63,3,2025-07-12
+621,115,Dog Food,Pets,7.03,3,2025-07-09
+622,205,Lip Balm,Beauty,29.02,4,2025-07-06
+623,207,Perfume,Beauty,29.92,2,2025-06-30
+624,176,Hand Sanitizer,Health,45.43,1,2025-07-04
+625,246,Lip Balm,Beauty,8.65,4,2025-05-23
+626,142,Cat Toy,Pets,8.93,4,2025-05-11
+627,274,Paper Towels,Home,49.87,2,2025-07-16
+628,166,Phone Charger,Electronics,7.09,5,2025-06-20
+629,241,USB Cable,Electronics,27.43,1,2025-07-29
+630,259,Perfume,Beauty,8.29,2,2025-05-19
+631,245,Face Cream,Beauty,46.47,5,2025-05-13
+632,173,Foundation,Beauty,44.26,3,2025-06-19
+633,267,Laundry Detergent,Home,4.76,3,2025-06-21
+634,136,Perfume,Beauty,4.82,3,2025-07-28
+635,160,Hand Sanitizer,Health,46.28,3,2025-05-03
+636,186,USB Cable,Electronics,16.18,4,2025-07-29
+637,275,Toothpaste,Health,9.32,4,2025-06-11
+638,168,Dish Soap,Home,11.83,2,2025-06-22
+639,289,Trash Bags,Home,41.59,5,2025-05-21
+640,116,Laptop Stand,Electronics,9.38,5,2025-07-12
+641,107,Cat Toy,Pets,44.13,2,2025-05-08
+642,163,Hand Sanitizer,Health,5.38,3,2025-07-30
+643,150,USB Cable,Electronics,41.7,5,2025-06-20
+644,262,Shampoo,Health,14.37,4,2025-07-16
+645,214,Bird Seed,Pets,30.58,3,2025-06-14
+646,141,Phone Charger,Electronics,16.4,4,2025-05-07
+647,141,Lip Balm,Beauty,43.28,2,2025-07-26
+648,152,Laptop Stand,Electronics,27.12,1,2025-06-30
+649,133,Dog Food,Pets,13.52,5,2025-06-09
+650,282,Laptop Stand,Electronics,45.09,3,2025-06-28
+651,164,Bird Seed,Pets,17.2,5,2025-07-19
+652,201,Face Cream,Beauty,3.35,3,2025-07-11
+653,265,Foundation,Beauty,17.03,1,2025-07-01
+654,116,USB Cable,Electronics,33.11,3,2025-06-03
+655,267,Bluetooth Speaker,Electronics,10.05,2,2025-05-08
+656,253,Trash Bags,Home,35.0,1,2025-07-23
+657,227,USB Cable,Electronics,45.62,4,2025-06-19
+658,288,Toothpaste,Health,19.13,2,2025-07-27
+659,236,Trash Bags,Home,26.84,2,2025-07-24
+660,242,Pet Shampoo,Pets,7.59,2,2025-06-03
+661,285,Lip Balm,Beauty,47.51,3,2025-07-23
+662,122,Pet Shampoo,Pets,13.5,3,2025-06-23
+663,184,USB Cable,Electronics,30.52,4,2025-05-16
+664,220,Shampoo,Health,25.19,2,2025-07-04
+665,130,Trash Bags,Home,22.42,2,2025-05-18
+666,151,Laptop Stand,Electronics,49.4,4,2025-05-19
+667,180,Dog Food,Pets,25.92,2,2025-06-10
+668,262,Shampoo,Health,24.25,2,2025-05-22
+669,247,Bird Seed,Pets,39.9,1,2025-05-17
+670,257,Laundry Detergent,Home,21.96,4,2025-06-19
+671,101,Toothpaste,Health,37.34,1,2025-06-11
+672,293,Lip Balm,Beauty,3.84,1,2025-07-20
+673,287,Cat Toy,Pets,35.6,3,2025-06-09
+674,133,Hand Sanitizer,Health,26.66,3,2025-05-22
+675,116,Multivitamins,Health,47.58,4,2025-07-06
+676,252,Foundation,Beauty,23.38,2,2025-06-13
+677,225,Bluetooth Speaker,Electronics,10.75,4,2025-05-03
+678,158,Cat Toy,Pets,12.93,1,2025-07-15
+679,229,Dog Food,Pets,20.23,1,2025-06-18
+680,263,Phone Charger,Electronics,30.91,1,2025-07-24
+681,127,Shampoo,Health,35.42,4,2025-06-26
+682,197,Multivitamins,Health,25.3,2,2025-05-27
+683,277,Multivitamins,Health,22.78,1,2025-07-24
+684,233,Bluetooth Speaker,Electronics,22.68,1,2025-07-05
+685,284,Face Cream,Beauty,16.29,1,2025-07-03
+686,150,Lip Balm,Beauty,39.56,5,2025-05-26
+687,191,Trash Bags,Home,10.54,5,2025-07-03
+688,153,Trash Bags,Home,14.02,1,2025-07-25
+689,122,Hand Sanitizer,Health,10.01,1,2025-07-05
+690,119,Multivitamins,Health,33.28,4,2025-06-07
+691,167,Dish Soap,Home,7.69,2,2025-05-06
+692,174,USB Cable,Electronics,23.02,1,2025-05-13
+693,294,Shampoo,Health,43.04,2,2025-06-12
+694,191,Trash Bags,Home,44.29,1,2025-06-17
+695,187,Dog Food,Pets,21.84,4,2025-06-04
+696,198,Laundry Detergent,Home,33.5,2,2025-05-15
+697,133,Toothpaste,Health,7.87,5,2025-07-01
+698,245,Paper Towels,Home,31.73,3,2025-07-18
+699,107,Bird Seed,Pets,46.26,1,2025-06-22
+700,212,Shampoo,Health,15.3,3,2025-05-02
+701,280,Lip Balm,Beauty,48.96,3,2025-07-06
+702,233,Face Cream,Beauty,23.34,2,2025-07-01
+703,188,Paper Towels,Home,42.43,5,2025-07-18
+704,113,Toothpaste,Health,26.76,4,2025-07-03
+705,142,Hand Sanitizer,Health,18.07,3,2025-06-05
+706,112,Lip Balm,Beauty,28.87,4,2025-06-21
+707,160,Hand Sanitizer,Health,23.88,5,2025-06-27
+708,122,Laundry Detergent,Home,17.85,4,2025-07-23
+709,104,Hand Sanitizer,Health,22.38,5,2025-07-10
+710,100,Multivitamins,Health,44.84,5,2025-05-27
+711,267,Trash Bags,Home,20.08,1,2025-05-29
+712,216,Laptop Stand,Electronics,36.68,3,2025-06-27
+713,129,Toothpaste,Health,3.1,3,2025-07-21
+714,174,Foundation,Beauty,36.0,1,2025-05-22
+715,226,Bird Seed,Pets,8.03,5,2025-05-26
+716,148,Hand Sanitizer,Health,13.13,2,2025-06-13
+717,127,Dish Soap,Home,46.55,5,2025-05-16
+718,297,Laundry Detergent,Home,33.95,5,2025-05-18
+719,227,Shampoo,Health,29.0,4,2025-07-14
+720,223,Lip Balm,Beauty,35.52,2,2025-05-17
+721,126,Trash Bags,Home,26.69,4,2025-06-23
+722,255,Pet Shampoo,Pets,21.7,3,2025-06-07
+723,215,Cat Toy,Pets,22.4,5,2025-06-08
+724,279,Foundation,Beauty,36.46,5,2025-07-20
+725,155,Cat Toy,Pets,32.34,3,2025-07-27
+726,188,Cat Toy,Pets,26.68,3,2025-07-30
+727,129,Laptop Stand,Electronics,30.39,4,2025-07-26
+728,291,Foundation,Beauty,44.24,4,2025-05-02
+729,233,Shampoo,Health,20.9,1,2025-07-25
+730,114,Pet Shampoo,Pets,38.26,2,2025-06-06
+731,274,Bluetooth Speaker,Electronics,42.45,3,2025-05-27
+732,292,Face Cream,Beauty,19.86,4,2025-05-14
+733,257,Lip Balm,Beauty,37.89,5,2025-06-19
+734,160,Foundation,Beauty,35.57,1,2025-06-18
+735,199,Trash Bags,Home,48.39,1,2025-05-02
+736,290,Bluetooth Speaker,Electronics,32.17,4,2025-05-29
+737,262,Bluetooth Speaker,Electronics,39.48,2,2025-06-07
+738,214,Dog Food,Pets,11.79,2,2025-07-05
+739,130,Dish Soap,Home,23.14,5,2025-06-03
+740,133,Pet Shampoo,Pets,3.27,4,2025-07-30
+741,139,Toothpaste,Health,46.65,5,2025-05-07
+742,298,Foundation,Beauty,26.06,5,2025-07-10
+743,191,Multivitamins,Health,27.69,2,2025-07-06
+744,117,Lip Balm,Beauty,22.55,5,2025-06-21
+745,123,Bluetooth Speaker,Electronics,44.52,3,2025-06-12
+746,192,Bluetooth Speaker,Electronics,47.66,5,2025-07-07
+747,221,Face Cream,Beauty,8.39,3,2025-06-27
+748,161,Lip Balm,Beauty,48.07,3,2025-06-18
+749,129,Trash Bags,Home,28.39,3,2025-05-04
+750,232,Laptop Stand,Electronics,25.88,3,2025-07-23
+751,149,Phone Charger,Electronics,47.57,2,2025-07-08
+752,236,Shampoo,Health,12.91,2,2025-07-27
+753,208,Toothpaste,Health,28.27,4,2025-07-22
+754,118,Dog Food,Pets,24.58,3,2025-05-05
+755,122,Shampoo,Health,11.37,3,2025-07-11
+756,118,Lip Balm,Beauty,45.82,4,2025-06-19
+757,215,Laundry Detergent,Home,17.87,4,2025-07-26
+758,130,Face Cream,Beauty,33.15,5,2025-05-09
+759,293,Face Cream,Beauty,35.94,1,2025-06-15
+760,228,Multivitamins,Health,39.98,3,2025-07-17
+761,122,Laptop Stand,Electronics,20.93,1,2025-06-30
+762,140,Lip Balm,Beauty,9.41,4,2025-07-09
+763,175,Pet Shampoo,Pets,34.83,3,2025-05-02
+764,241,Lip Balm,Beauty,8.79,1,2025-07-13
+765,252,Dish Soap,Home,17.32,3,2025-05-28
+766,205,Lip Balm,Beauty,10.56,2,2025-07-18
+767,164,Dog Food,Pets,11.52,5,2025-05-07
+768,292,Perfume,Beauty,33.3,1,2025-06-07
+769,271,Multivitamins,Health,7.62,5,2025-07-02
+770,184,Bluetooth Speaker,Electronics,34.55,2,2025-05-13
+771,172,Face Cream,Beauty,45.31,3,2025-07-02
+772,215,USB Cable,Electronics,35.59,2,2025-07-12
+773,245,USB Cable,Electronics,48.06,2,2025-05-01
+774,180,Cat Toy,Pets,36.47,4,2025-06-05
+775,192,Pet Shampoo,Pets,44.26,4,2025-06-27
+776,191,Laptop Stand,Electronics,28.93,2,2025-07-22
+777,255,Multivitamins,Health,43.36,2,2025-07-08
+778,150,Phone Charger,Electronics,37.19,1,2025-07-04
+779,261,Hand Sanitizer,Health,39.15,2,2025-05-05
+780,241,Laptop Stand,Electronics,33.73,2,2025-06-16
+781,200,Pet Shampoo,Pets,9.29,5,2025-07-05
+782,123,Trash Bags,Home,26.6,2,2025-07-18
+783,275,Cat Toy,Pets,23.97,2,2025-07-12
+784,244,Bird Seed,Pets,47.14,1,2025-05-29
+785,294,Paper Towels,Home,5.95,3,2025-05-30
+786,110,Pet Shampoo,Pets,21.24,4,2025-05-06
+787,110,Phone Charger,Electronics,36.08,5,2025-07-21
+788,170,Bluetooth Speaker,Electronics,20.7,4,2025-06-16
+789,250,Multivitamins,Health,20.69,2,2025-07-06
+790,203,USB Cable,Electronics,25.88,4,2025-07-17
+791,101,Lip Balm,Beauty,23.68,2,2025-05-10
+792,231,Bluetooth Speaker,Electronics,10.06,2,2025-06-16
+793,254,Toothpaste,Health,22.49,3,2025-05-15
+794,223,Laundry Detergent,Home,12.9,2,2025-07-22
+795,205,Toothpaste,Health,5.03,5,2025-07-15
+796,141,Dog Food,Pets,44.87,2,2025-05-08
+797,142,Bluetooth Speaker,Electronics,27.28,4,2025-07-16
+798,244,Multivitamins,Health,47.52,2,2025-06-27
+799,255,Laundry Detergent,Home,11.02,4,2025-07-16
+800,136,Lip Balm,Beauty,32.29,5,2025-06-03
+801,142,Laptop Stand,Electronics,31.04,1,2025-05-30
+802,196,Paper Towels,Home,8.1,2,2025-07-06
+803,229,Paper Towels,Home,31.46,2,2025-06-30
+804,257,Face Cream,Beauty,44.25,5,2025-07-04
+805,292,Shampoo,Health,25.67,2,2025-07-17
+806,238,Hand Sanitizer,Health,27.54,3,2025-05-06
+807,278,Perfume,Beauty,13.79,4,2025-06-18
+808,189,Face Cream,Beauty,23.0,3,2025-07-01
+809,296,Dog Food,Pets,16.31,5,2025-06-22
+810,165,Dog Food,Pets,36.33,1,2025-07-13
+811,233,Shampoo,Health,20.63,2,2025-07-28
+812,180,Trash Bags,Home,8.01,4,2025-07-23
+813,249,USB Cable,Electronics,43.18,4,2025-07-12
+814,193,Foundation,Beauty,49.61,4,2025-05-27
+815,205,Perfume,Beauty,11.4,5,2025-07-11
+816,223,USB Cable,Electronics,30.15,4,2025-05-18
+817,268,Toothpaste,Health,23.99,2,2025-05-13
+818,154,Perfume,Beauty,39.95,5,2025-07-18
+819,278,Toothpaste,Health,21.29,1,2025-05-12
+820,137,Laundry Detergent,Home,7.14,3,2025-05-29
+821,194,Shampoo,Health,37.05,4,2025-07-18
+822,267,Foundation,Beauty,36.45,5,2025-05-08
+823,298,Bird Seed,Pets,23.63,2,2025-07-24
+824,232,Bluetooth Speaker,Electronics,4.58,5,2025-07-05
+825,232,Cat Toy,Pets,34.68,3,2025-05-31
+826,267,Toothpaste,Health,7.08,3,2025-06-21
+827,190,Laundry Detergent,Home,30.55,5,2025-05-02
+828,288,Shampoo,Health,28.83,5,2025-07-14
+829,189,USB Cable,Electronics,13.64,2,2025-06-28
+830,203,Face Cream,Beauty,15.27,4,2025-07-04
+831,127,Face Cream,Beauty,26.65,3,2025-05-15
+832,231,USB Cable,Electronics,35.63,4,2025-07-12
+833,223,Pet Shampoo,Pets,48.18,4,2025-07-27
+834,217,Face Cream,Beauty,25.65,3,2025-05-09
+835,197,Cat Toy,Pets,40.61,4,2025-06-15
+836,232,Face Cream,Beauty,35.94,3,2025-06-01
+837,173,Hand Sanitizer,Health,34.66,3,2025-05-10
+838,241,Bird Seed,Pets,17.75,2,2025-07-13
+839,168,Cat Toy,Pets,26.45,2,2025-05-31
+840,288,Pet Shampoo,Pets,12.72,2,2025-06-01
+841,258,Bluetooth Speaker,Electronics,39.61,1,2025-05-11
+842,273,Dish Soap,Home,38.92,5,2025-05-06
+843,223,USB Cable,Electronics,26.14,5,2025-06-05
+844,225,Pet Shampoo,Pets,21.7,5,2025-05-17
+845,113,Perfume,Beauty,25.48,5,2025-05-05
+846,228,Laptop Stand,Electronics,43.44,2,2025-06-28
+847,130,Perfume,Beauty,17.84,1,2025-05-02
+848,272,Bird Seed,Pets,30.31,3,2025-06-16
+849,256,Bluetooth Speaker,Electronics,28.78,2,2025-06-04
+850,220,Foundation,Beauty,20.2,4,2025-06-24
+851,153,Trash Bags,Home,20.16,4,2025-06-05
+852,215,Cat Toy,Pets,49.03,2,2025-05-13
+853,284,Bluetooth Speaker,Electronics,29.1,4,2025-05-26
+854,137,Bird Seed,Pets,40.87,2,2025-06-23
+855,227,Pet Shampoo,Pets,39.91,3,2025-06-02
+856,243,Face Cream,Beauty,21.72,2,2025-05-08
+857,155,Laptop Stand,Electronics,42.43,1,2025-06-27
+858,290,USB Cable,Electronics,19.97,5,2025-07-11
+859,165,Phone Charger,Electronics,22.35,3,2025-07-26
+860,255,Cat Toy,Pets,49.03,3,2025-06-15
+861,183,Perfume,Beauty,39.41,4,2025-05-11
+862,197,Foundation,Beauty,24.8,2,2025-05-22
+863,263,Laptop Stand,Electronics,32.67,5,2025-06-21
+864,118,Toothpaste,Health,19.15,3,2025-06-10
+865,267,USB Cable,Electronics,31.45,4,2025-06-04
+866,213,Laptop Stand,Electronics,22.46,2,2025-05-03
+867,132,Pet Shampoo,Pets,47.2,1,2025-05-27
+868,142,Dish Soap,Home,7.49,4,2025-07-10
+869,113,Hand Sanitizer,Health,27.63,1,2025-05-14
+870,167,Lip Balm,Beauty,6.96,4,2025-06-09
+871,158,Pet Shampoo,Pets,23.83,2,2025-05-17
+872,234,Dog Food,Pets,4.65,3,2025-06-11
+873,221,Trash Bags,Home,28.78,2,2025-07-29
+874,238,Bird Seed,Pets,32.66,5,2025-06-25
+875,234,Foundation,Beauty,45.72,4,2025-07-09
+876,158,Hand Sanitizer,Health,17.47,4,2025-06-03
+877,139,Phone Charger,Electronics,3.0,2,2025-06-14
+878,173,Dish Soap,Home,35.33,4,2025-07-01
+879,176,Hand Sanitizer,Health,40.5,5,2025-05-30
+880,101,Foundation,Beauty,11.86,5,2025-06-25
+881,201,Cat Toy,Pets,36.6,4,2025-06-18
+882,156,Phone Charger,Electronics,22.85,2,2025-07-06
+883,295,Foundation,Beauty,16.38,5,2025-06-04
+884,205,Dog Food,Pets,11.57,3,2025-05-15
+885,263,Laundry Detergent,Home,15.79,5,2025-07-02
+886,148,Phone Charger,Electronics,10.15,5,2025-05-03
+887,147,Multivitamins,Health,15.65,4,2025-05-02
+888,159,Toothpaste,Health,3.69,2,2025-06-13
+889,207,Laptop Stand,Electronics,49.9,4,2025-07-29
+890,108,Phone Charger,Electronics,42.65,2,2025-05-08
+891,168,Dish Soap,Home,28.53,2,2025-05-25
+892,164,Dish Soap,Home,8.73,2,2025-06-19
+893,297,Paper Towels,Home,37.67,1,2025-05-26
+894,217,Toothpaste,Health,25.22,3,2025-06-11
+895,140,Shampoo,Health,14.91,3,2025-05-26
+896,192,Toothpaste,Health,48.74,2,2025-07-21
+897,211,Phone Charger,Electronics,10.87,3,2025-07-14
+898,130,Paper Towels,Home,3.42,1,2025-07-14
+899,300,Paper Towels,Home,20.46,1,2025-06-01
+900,140,Dish Soap,Home,35.24,3,2025-07-20
+901,115,Multivitamins,Health,33.3,5,2025-05-14
+902,132,Paper Towels,Home,17.89,5,2025-07-22
+903,293,Laptop Stand,Electronics,37.46,1,2025-07-28
+904,196,Bluetooth Speaker,Electronics,14.78,1,2025-07-02
+905,280,Trash Bags,Home,28.51,4,2025-05-25
+906,245,Pet Shampoo,Pets,18.21,4,2025-06-05
+907,253,Lip Balm,Beauty,6.24,2,2025-06-27
+908,175,USB Cable,Electronics,24.34,5,2025-06-18
+909,287,Dog Food,Pets,32.13,3,2025-07-19
+910,161,Phone Charger,Electronics,33.94,5,2025-06-19
+911,148,Perfume,Beauty,38.99,2,2025-07-18
+912,172,Laptop Stand,Electronics,33.12,1,2025-05-13
+913,233,Shampoo,Health,42.25,2,2025-05-23
+914,108,Dog Food,Pets,25.81,1,2025-05-05
+915,246,Laundry Detergent,Home,27.71,5,2025-06-02
+916,112,Bluetooth Speaker,Electronics,31.48,1,2025-05-02
+917,153,Dish Soap,Home,25.0,1,2025-06-16
+918,242,Trash Bags,Home,40.33,1,2025-07-18
+919,168,Face Cream,Beauty,37.51,3,2025-05-10
+920,155,Face Cream,Beauty,7.76,2,2025-07-08
+921,198,Cat Toy,Pets,27.73,2,2025-07-12
+922,260,Bird Seed,Pets,38.07,5,2025-06-15
+923,272,Laundry Detergent,Home,44.49,2,2025-05-24
+924,240,Trash Bags,Home,33.9,5,2025-07-16
+925,213,USB Cable,Electronics,28.85,3,2025-06-17
+926,205,Trash Bags,Home,31.6,5,2025-07-09
+927,154,Trash Bags,Home,19.92,4,2025-06-27
+928,201,Shampoo,Health,49.2,5,2025-05-03
+929,232,Pet Shampoo,Pets,3.31,2,2025-05-28
+930,180,Multivitamins,Health,46.2,5,2025-07-11
+931,246,Lip Balm,Beauty,7.43,4,2025-06-15
+932,139,Pet Shampoo,Pets,20.25,5,2025-06-01
+933,159,USB Cable,Electronics,7.32,4,2025-07-12
+934,155,Multivitamins,Health,40.27,2,2025-07-02
+935,276,Face Cream,Beauty,30.98,3,2025-05-05
+936,287,Perfume,Beauty,6.69,1,2025-06-12
+937,189,Laundry Detergent,Home,46.72,1,2025-05-30
+938,291,Face Cream,Beauty,32.79,4,2025-05-07
+939,178,Face Cream,Beauty,18.01,5,2025-05-20
+940,183,Lip Balm,Beauty,10.2,4,2025-06-27
+941,292,Face Cream,Beauty,13.44,3,2025-06-20
+942,137,Pet Shampoo,Pets,6.88,5,2025-05-07
+943,240,Trash Bags,Home,7.0,5,2025-06-25
+944,298,Cat Toy,Pets,25.6,2,2025-07-02
+945,201,Lip Balm,Beauty,29.37,5,2025-06-01
+946,162,Multivitamins,Health,39.51,3,2025-07-27
+947,247,Shampoo,Health,34.57,4,2025-06-16
+948,189,Pet Shampoo,Pets,19.19,1,2025-06-09
+949,143,Laptop Stand,Electronics,32.29,4,2025-05-06
+950,159,Pet Shampoo,Pets,10.33,1,2025-05-15
+951,289,Toothpaste,Health,47.6,2,2025-06-06
+952,103,Phone Charger,Electronics,17.34,4,2025-05-03
+953,184,Cat Toy,Pets,12.58,5,2025-06-03
+954,240,Paper Towels,Home,35.67,1,2025-06-18
+955,249,Face Cream,Beauty,15.01,1,2025-06-06
+956,151,Foundation,Beauty,5.5,1,2025-05-09
+957,199,USB Cable,Electronics,43.62,1,2025-06-07
+958,266,Paper Towels,Home,49.05,5,2025-07-30
+959,125,Laptop Stand,Electronics,43.74,5,2025-05-12
+960,147,Bird Seed,Pets,29.35,1,2025-05-06
+961,163,Foundation,Beauty,18.68,4,2025-05-21
+962,104,USB Cable,Electronics,19.7,3,2025-05-31
+963,228,Phone Charger,Electronics,32.41,4,2025-05-04
+964,242,Bluetooth Speaker,Electronics,10.13,4,2025-07-24
+965,135,Hand Sanitizer,Health,27.47,5,2025-07-20
+966,275,Bird Seed,Pets,14.3,2,2025-06-24
+967,179,Foundation,Beauty,24.11,2,2025-05-27
+968,267,Cat Toy,Pets,43.54,3,2025-07-28
+969,280,Lip Balm,Beauty,23.21,2,2025-07-23
+970,244,Pet Shampoo,Pets,6.19,5,2025-05-16
+971,147,Bluetooth Speaker,Electronics,37.17,3,2025-06-22
+972,205,Laptop Stand,Electronics,38.04,3,2025-05-20
+973,299,Dog Food,Pets,9.18,1,2025-07-18
+974,257,Bluetooth Speaker,Electronics,31.03,2,2025-07-27
+975,106,Phone Charger,Electronics,35.34,4,2025-05-18
+976,228,Perfume,Beauty,36.46,3,2025-05-24
+977,199,Laundry Detergent,Home,9.46,2,2025-05-29
+978,108,Dish Soap,Home,46.5,4,2025-05-29
+979,290,Cat Toy,Pets,6.11,4,2025-07-18
+980,225,Laptop Stand,Electronics,44.72,4,2025-06-21
+981,298,Hand Sanitizer,Health,36.85,4,2025-07-18
+982,290,Face Cream,Beauty,27.47,4,2025-06-28
+983,110,Bird Seed,Pets,49.24,1,2025-07-11
+984,199,Face Cream,Beauty,11.92,4,2025-06-20
+985,177,Laptop Stand,Electronics,10.82,3,2025-07-18
+986,113,Lip Balm,Beauty,24.79,4,2025-05-12
+987,284,Face Cream,Beauty,11.45,5,2025-07-29
+988,239,Bird Seed,Pets,22.44,4,2025-05-04
+989,145,Paper Towels,Home,44.48,1,2025-06-02
+990,182,Dog Food,Pets,7.29,4,2025-07-21
+991,192,Hand Sanitizer,Health,37.16,5,2025-07-18
+992,140,Laundry Detergent,Home,5.06,2,2025-06-12
+993,244,Cat Toy,Pets,43.83,2,2025-05-07
+994,207,USB Cable,Electronics,37.32,4,2025-06-06
+995,260,Dog Food,Pets,45.23,2,2025-05-01
+996,259,Phone Charger,Electronics,24.56,4,2025-07-09
+997,101,Perfume,Beauty,14.18,5,2025-07-24
+998,221,Laundry Detergent,Home,23.77,5,2025-07-16
+999,101,Pet Shampoo,Pets,32.13,5,2025-05-27
+1000,112,Cat Toy,Pets,5.59,3,2025-05-05
