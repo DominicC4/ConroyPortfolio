@@ -14,7 +14,8 @@ Analyzed e-commerce sales data using SQL to extract insights into customer behav
 - Monthly sales spikes linked to campaigns
 
 ## Files
-- marketing_queries.sql
+- marketing_queries.sql : SQL analysis
+- sales_data_sample.csv : Mock Dataset
 - summary.md
 - dashboard.png
 
