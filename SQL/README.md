@@ -7,7 +7,7 @@ Analyzed e-commerce sales data using SQL to extract insights into customer behav
 - SQL (Joins, Aggregations, Window Functions)
 - Business Insight Development
 - Data Cleaning
-- 
+  
 ## Key Insights
 - Top product categories by revenue
 - Customer retention trends by region
