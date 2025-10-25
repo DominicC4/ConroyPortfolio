@@ -4,6 +4,9 @@ This folder contains interactive dashboards and visualization projects created i
 Each project focuses on transforming raw business data into actionable insights using Power Query and DAX.
 
 Ad Performance Optimization Dashboard
+[▶️ View Interactive Dashboard (Power BI Online)](https://app.powerbi.com/view?r=YOUR-LINK-HERE)
+
+[⬇️ Download Power BI File (.pbix)](Ad_Performance_Dashboard.pbix)
 
 Overview
 This project analyzes over 40 million ad impressions, 83,000 clicks, and $87,000 in ad spend to identify when digital display campaigns perform most efficiently. Using Power Query for data cleaning and Power BI for visualization, the goal was to uncover high-ROI time windows and guide smarter budget allocation decisions.
