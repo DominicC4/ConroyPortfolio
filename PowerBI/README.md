@@ -8,7 +8,7 @@ Ad Performance Optimization Dashboard
 
 [⬇️ Download Power BI File (.pbix)](https://github.com/DominicC4/ConroyPortfolio/raw/main/PowerBI/Conroy_Ad_Performance_BI.pbix)
 
-![Dashboard Preview](PREVIEW.png)
+![Dashboard Preview](PREVIEW)
 
 Overview
 This project analyzes over 40 million ad impressions, 83,000 clicks, and $87,000 in ad spend to identify when digital display campaigns perform most efficiently. Using Power Query for data cleaning and Power BI for visualization, the goal was to uncover high-ROI time windows and guide smarter budget allocation decisions.
