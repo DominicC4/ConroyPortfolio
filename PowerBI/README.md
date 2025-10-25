@@ -4,7 +4,7 @@ This folder contains interactive dashboards and visualization projects created i
 Each project focuses on transforming raw business data into actionable insights using Power Query and DAX.
 
 Ad Performance Optimization Dashboard
-[▶️ View Interactive Dashboard (Power BI Online)](https://app.powerbi.com/view?r=YOUR-LINK-HERE)
+[▶️ View Interactive Dashboard (Power BI Online)](https://app.powerbi.com/view?r=eyJrIjoiZGNiZTM0ZjYtNWI1YS00ODQ5LTgzZWUtZGM5MzY3YTQ1MDA1IiwidCI6ImJhZjgyMThlLWIzMDItNDQ2NS1hOTkzLTRhMzljOTcyNTFiMiIsImMiOjF9)
 
 [⬇️ Download Power BI File (.pbix)](Ad_Performance_Dashboard.pbix)
 
