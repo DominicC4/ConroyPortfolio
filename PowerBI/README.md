@@ -6,7 +6,8 @@ Each project focuses on transforming raw business data into actionable insights 
 Ad Performance Optimization Dashboard
 [▶️ View Interactive Dashboard (Power BI Online)](https://app.powerbi.com/view?r=eyJrIjoiZGNiZTM0ZjYtNWI1YS00ODQ5LTgzZWUtZGM5MzY3YTQ1MDA1IiwidCI6ImJhZjgyMThlLWIzMDItNDQ2NS1hOTkzLTRhMzljOTcyNTFiMiIsImMiOjF9)
 
-[⬇️ Download Power BI File (.pbix)](Conroy_Ad_Performance_BI.pbix)
+[⬇️ Download Power BI File (.pbix)](https://github.com/DominicC4/ConroyPortfolio/raw/main/PowerBI/Conroy_Ad_Performance_BI.pbix)
+
 
 Overview
 This project analyzes over 40 million ad impressions, 83,000 clicks, and $87,000 in ad spend to identify when digital display campaigns perform most efficiently. Using Power Query for data cleaning and Power BI for visualization, the goal was to uncover high-ROI time windows and guide smarter budget allocation decisions.
